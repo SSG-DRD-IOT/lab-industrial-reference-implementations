@@ -7,5 +7,5 @@ Follow the link below to find a listing of these reference implementations and t
 
 If you need a refresher on how to deploy remotely using Intel System Studio Please refer to this lab: [Running Object Flaw Detector](https://github.com/SSG-DRD-IOT/object-flaw-detector-up2-lab) 
 
-#[Industrial Reference Implementations](https://software.intel.com/en-us/articles/reference-implementations-for-industrial-situations)
+# [Industrial Reference Implementations](https://software.intel.com/en-us/articles/reference-implementations-for-industrial-situations)
 
